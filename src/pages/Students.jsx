@@ -55,6 +55,8 @@ const Students = () => {
       {/* Header */}
       <div className="page-header">
         <h1>Students</h1>
+        <input type="text" placeholder="Search Student"/>
+        
         <p>Manage all registered students in the system.</p>
       </div>
 
